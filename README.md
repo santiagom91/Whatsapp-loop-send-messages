@@ -1,6 +1,6 @@
 # Whatsapp-loop-send-messages
 Whatsapp-loop-send-messages
-Steps to send whatsapp messages on loop: 
+The steps to send whatsapp messages on loop: 
 1) Open Whatsapp web.
 2) Click on the person you want to send messages on loop.
 3) open the browser console.
