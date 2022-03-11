@@ -10,7 +10,7 @@ Steps to send whatsapp messages on loop:
 Done.
 
 
-
+'''
 var message = prompt("Enter your message", "‎");
 var counter = parseInt(prompt("How many Times ?", 10));
 window.InputEvent = window.Event || window.InputEvent;
@@ -21,3 +21,4 @@ for (let index = 0; index < counter; index++) {
   textbox.dispatchEvent(event);
   document.getElementsByClassName("_4sWnG")[0].click();
 }
+'''
