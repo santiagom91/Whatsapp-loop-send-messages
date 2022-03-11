@@ -11,8 +11,8 @@ Done.
 
 
 ```
-var message = prompt("Enter your message", "‎");
-var counter = parseInt(prompt("How many Times ?", 10));
+var message = prompt("Enter your loop message: ", "‎");
+var counter = parseInt(prompt("How many times do you want to send the message?", 10));
 window.InputEvent = window.Event || window.InputEvent;
 var event = new InputEvent("input", { bubbles: true });
 var textbox = document.getElementsByClassName("_13NKt copyable-text selectable-text")[1];
